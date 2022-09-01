@@ -1,16 +1,15 @@
 ### Hi there 👋
+My name is Adrián, I'm from Argentina and I'm an Developer.
 
-<!--
-**alazarte-repo/alazarte-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on LoJack's company, I'm Fullstack Developer 
+- 🌱 I’m currently learning Kubernetes & CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills ⚡
+- Developer since 2012
+- Digital Ocean, Circle CI, Docker, Terraform (basic)... I like all the cloud stuff :)
+- Critical thinking, decision-making and problem solving skills
+
+Contact 💬
+ - https://www.linkedin.com/in/adrian-lazarte/ 
+ - adrianlazarte@live.com.ar
